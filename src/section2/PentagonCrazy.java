@@ -20,7 +20,7 @@ public class PentagonCrazy {
 		      r2d2.setSpeed(100);
 
 		// 9. Set the pen to a color that you like for the shape
-		      r2d2.setRandomPenColor();
+		      r2d2.setPenColor(Color.pink);
 
 		// 4. Make a variable for the number of sides you want (can’t test this one)
 		      int numSides= 5;

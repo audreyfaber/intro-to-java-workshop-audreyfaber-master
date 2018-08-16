@@ -7,6 +7,7 @@ public class Spiral {
 	public static void main(String[] args) {
 		// 1. Create a new Robot
 		      Robot r2d2= new Robot ();
+		      r2d2.hide();
 		
 		// 5. Set your robot's pen down 
 		      r2d2.penDown();
